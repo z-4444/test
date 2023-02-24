@@ -1,0 +1,71 @@
+[I 2023-02-24 09:30:55.060 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-24 09:30:55.061 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 09:30:55.088 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/week 2/day5
+[I 09:30:55.089 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 09:30:55.089 NotebookApp] http://localhost:8888/?token=a08f234288fc77f9b8d103b810295cec25b06f13a8c3ac0b
+[I 09:30:55.089 NotebookApp]  or http://127.0.0.1:8888/?token=a08f234288fc77f9b8d103b810295cec25b06f13a8c3ac0b
+[I 09:30:55.089 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:30:55.226 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-4175-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a08f234288fc77f9b8d103b810295cec25b06f13a8c3ac0b
+     or http://127.0.0.1:8888/?token=a08f234288fc77f9b8d103b810295cec25b06f13a8c3ac0b
+[W 09:31:13.729 NotebookApp] Notebook task 2 solution day2.ipynb is not trusted
+[W 09:31:13.984 NotebookApp] Notebook pandas_evaluation_task_solution.ipynb is not trusted
+[I 09:31:15.551 NotebookApp] Kernel started: aa211420-6c8f-4aa9-bc57-66ca0ab890f4, name: python3
+[I 09:31:15.609 NotebookApp] Kernel started: c5aef0ad-1563-475a-837e-c4a074977978, name: python3
+[I 09:33:57.554 NotebookApp] Creating new notebook in 
+[I 09:33:59.939 NotebookApp] Kernel started: 7931731c-8baa-49ba-aae9-3d2fa9e8592e, name: python3
+[I 09:36:00.011 NotebookApp] Saving file at /conda & git.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 09:50:38.727 NotebookApp] Starting buffering for 7931731c-8baa-49ba-aae9-3d2fa9e8592e:3c25454602b3443c84de3bfd09c59d8d
+[I 09:50:38.736 NotebookApp] Starting buffering for c5aef0ad-1563-475a-837e-c4a074977978:540816a4ed5548f0a6ddb25a0c2a2a33
+[I 09:50:38.742 NotebookApp] Starting buffering for aa211420-6c8f-4aa9-bc57-66ca0ab890f4:29f3bd028f9c42948fda225100423eb2
+[I 2023-02-24 10:00:30.917 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-24 10:00:30.917 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 10:00:30.945 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/week 2/day5
+[I 10:00:30.946 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 10:00:30.946 NotebookApp] http://localhost:8888/?token=329b6fb2f83a144e70e3cb5fe1713d48ab0f6c49f628dcf3
+[I 10:00:30.946 NotebookApp]  or http://127.0.0.1:8888/?token=329b6fb2f83a144e70e3cb5fe1713d48ab0f6c49f628dcf3
+[I 10:00:30.946 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:00:31.105 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-4026-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=329b6fb2f83a144e70e3cb5fe1713d48ab0f6c49f628dcf3
+     or http://127.0.0.1:8888/?token=329b6fb2f83a144e70e3cb5fe1713d48ab0f6c49f628dcf3
+[W 10:01:36.811 NotebookApp] Notebook conda & git.ipynb is not trusted
+[I 10:01:38.437 NotebookApp] Kernel started: 41b37d0d-9435-496c-b73a-fa84715c56fc, name: python3
+[W 10:01:38.634 NotebookApp] Notebook pandas_evaluation_task_solution.ipynb is not trusted
+[W 10:01:39.756 NotebookApp] Notebook task 2 solution day2.ipynb is not trusted
+[I 10:01:40.329 NotebookApp] Kernel started: 7a61d89f-b15d-4bf4-9744-e8a19f745307, name: python3
+[I 10:01:40.841 NotebookApp] Kernel started: 72b39fbf-0502-44ec-9c21-e4c6214bd9db, name: python3
+[I 2023-02-24 10:53:03.463 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-24 10:53:03.463 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 10:53:03.491 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/week 2/day5
+[I 10:53:03.492 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 10:53:03.492 NotebookApp] http://localhost:8888/?token=c2e4096fce494b6bab72fb4cf7b06418f229398898d6c54e
+[I 10:53:03.492 NotebookApp]  or http://127.0.0.1:8888/?token=c2e4096fce494b6bab72fb4cf7b06418f229398898d6c54e
+[I 10:53:03.492 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:53:03.623 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-4618-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=c2e4096fce494b6bab72fb4cf7b06418f229398898d6c54e
+     or http://127.0.0.1:8888/?token=c2e4096fce494b6bab72fb4cf7b06418f229398898d6c54e
+[W 10:57:32.438 NotebookApp] Notebook pandas_evaluation_task_solution.ipynb is not trusted
+[W 10:57:32.637 NotebookApp] Notebook conda & git.ipynb is not trusted
+[I 10:57:33.211 NotebookApp] Kernel started: 454f66c1-687c-4907-a9b4-6ca1b7596e84, name: python3
+[I 10:57:34.988 NotebookApp] Kernel started: 7b414568-90de-4cdb-841d-3973b6fe95ef, name: python3
+[W 10:57:36.029 NotebookApp] Notebook task 2 solution day2.ipynb is not trusted
+[I 10:57:36.412 NotebookApp] Kernel started: 1579e809-7294-40ff-a575-550c01844f77, name: python3
+[I 11:07:03.598 NotebookApp] Creating new file in 
+[I 11:08:59.167 NotebookApp] Saving file at /test
+[I 11:45:50.504 NotebookApp] Saving file at /py35.yml
